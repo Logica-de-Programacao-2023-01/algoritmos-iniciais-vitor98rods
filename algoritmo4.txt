@@ -1,0 +1,9 @@
+Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um número, ou seja, o produto de todos os números inteiros de 1 até aquele número.
+1. leia lista
+2. leia x
+3. para 0 utilize o número 1
+4. leia o maior numero
+5. para resultado utilize:
+6. numero maior * numeros antecessores
+7. z = resultado das multiplicações anteriores
+8. escreva z
