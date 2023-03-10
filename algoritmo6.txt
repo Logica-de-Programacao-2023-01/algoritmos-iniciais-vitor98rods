@@ -4,3 +4,10 @@ Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um n
 3. para O resultado utilize:
 4. x * x pela quantidade da potência incial
 5. leia o resultado
+forma correta
+1. leia x
+2. leia potencia
+3. var resultado = x
+4. para todos os valores entre 1 e potencia, faça:
+5.      resultado = resultado * x
+6. escreva resultado
