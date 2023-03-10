@@ -1,0 +1,7 @@
+Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de dinheiro após um período de tempo com juros compostos.
+1. leia o montante de dinheiro
+2. leia o juros compostos
+3. leia o período de tempo
+4. para o resultado utilize:
+5. (montante de dinheiro*juros compostos)^período de tempo
+6. leia resultado
