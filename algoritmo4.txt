@@ -7,3 +7,11 @@ Algoritmo de cálculo de fatorial: um algoritmo que calcula o fatorial de um nú
 6. numero maior * numeros antecessores
 7. z = resultado das multiplicações anteriores
 8. escreva z
+
+forma correta
+
+1. leia x 
+2. var produto = 1
+3. para todo numeor de 1 até x faça:
+4.      produto = produto * numero_atual
+5. escreva produto
