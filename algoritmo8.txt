@@ -4,3 +4,10 @@ Algoritmo de cálculo de área de um triângulo: um algoritmo que calcula a áre
 3. para o resultado utilize:
 4. resultado = base*altura/2
 5. leia resultado
+
+
+forma correta
+1. leia base
+2. leia altura
+3. resultado = (base*altura)/2
+4. escreva resultado
