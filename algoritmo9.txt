@@ -5,3 +5,12 @@ Algoritmo de cálculo de juros compostos: um algoritmo que calcula o montante de
 4. para o resultado utilize:
 5. (montante de dinheiro*juros compostos)^período de tempo
 6. leia resultado
+forma correta
+
+1. leia taxa_juros
+2. leia capital
+3. leia tempo
+4. var resultado = capital * taxa_juros
+5. para todos os valores entre 1 e tempo faça: 
+6.      resultado = resultado * taxa_juros
+7. escreva resultado
