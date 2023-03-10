@@ -6,4 +6,12 @@ Algoritmo de verificação de número primo: um algoritmo que verifica se um nú
 5. então resultado = (x/x , x/1)
 6. se x for divisivel por x além de x ou 1, ele não é primo
 7. se x for divisivel apenas por x e 1 
-8. então o resultado é número primo. 
+8. então o resultado é número primo
+forma correta
+1. leia x
+2. se x igual a 2:
+3.      entao escreva é primo
+4.para todos os valores entre 2 e x-1, faça:
+5.     se x/valor_atual tem resto 0:
+6.             então escreva "Não é primo"
+7. escreva "É primo"
