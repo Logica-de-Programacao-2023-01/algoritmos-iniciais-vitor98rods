@@ -6,3 +6,14 @@ Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média pon
 5. some pesos da lista_números
 6, resultado = soma da lista_números/soma dos pesos da lista_números
 7. leia o resultado
+forma correta
+1. leia lista
+2. leia pesos
+3. var resultado = 0
+4. var somatorio_pesos = 0
+5. para cada elemento da lista faça:
+6.      resultado = resultado + (elemento * peso_correspondente)
+7. para cada peso dos pesos faça:
+8.      somatorio_pesos = somatoria_pesos + peso
+9. resultado = somatorio_elemtnos / somatorio_pesos
+10. escreva resultado
