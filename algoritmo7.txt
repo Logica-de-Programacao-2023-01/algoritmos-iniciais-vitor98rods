@@ -1,0 +1,9 @@
+Algoritmo de verificação de número primo: um algoritmo que verifica se um número é primo, ou seja, se é divisível apenas por 1 e por ele mesmo.
+1. leia x
+2. para o resultado use:
+3. x/x e x/1
+4. se x for<1 o número não é primo e terminamos por ai
+5. então resultado = (x/x , x/1)
+6. se x for divisivel por x além de x ou 1, ele não é primo
+7. se x for divisivel apenas por x e 1 
+8. então o resultado é número primo. 
