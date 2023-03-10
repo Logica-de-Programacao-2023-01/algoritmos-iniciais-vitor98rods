@@ -1,0 +1,8 @@
+Algoritmo de cálculo de média ponderada: um algoritmo que calcula a média ponderada de uma lista de números com base nos pesos fornecidos.
+1. leia lista_números
+2. leia os pesos da lista_números
+3. para o resultado utilize:
+4. some lista_números
+5. some pesos da lista_números
+6, resultado = soma da lista_números/soma dos pesos da lista_números
+7. leia o resultado
